@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577520198734",
+    "project_id": "shivom-group",
+    "storage_bucket": "shivom-group.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577520198734:android:0c91a182389104e2084f1f",
+        "android_client_info": {
+          "package_name": "com.smarthostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF5A2QWwVqhv8WDq2H1Md3LMIHDPiE5bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
